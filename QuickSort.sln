@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Быстрая сортировка", "Быстрая сортировка\Быстрая сортировка.csproj", "{073804CE-696B-48FF-B885-E6B3A8E3C49B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "Быстрая сортировка\QuickSort.csproj", "{073804CE-696B-48FF-B885-E6B3A8E3C49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F8799A99-5049-436E-9D4C-4D3A46B82D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{073804CE-696B-48FF-B885-E6B3A8E3C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{073804CE-696B-48FF-B885-E6B3A8E3C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{073804CE-696B-48FF-B885-E6B3A8E3C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8799A99-5049-436E-9D4C-4D3A46B82D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8799A99-5049-436E-9D4C-4D3A46B82D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8799A99-5049-436E-9D4C-4D3A46B82D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8799A99-5049-436E-9D4C-4D3A46B82D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
